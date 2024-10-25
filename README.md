@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-product-card-basic-bem-and-sanitizecss-and-css-reset-dOgI_PcB3-)
+- Live Site URL: [Github Pages](https://shwerts.github.io/product-preview-card-component/)
 
 ## My process
 
